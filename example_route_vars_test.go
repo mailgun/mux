@@ -2,7 +2,7 @@ package mux_test
 
 import (
 	"fmt"
-	"github.com/gorilla/mux"
+	"github.com/mailgun/mux"
 )
 
 // This example demonstrates building a dynamic URL using
